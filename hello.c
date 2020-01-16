@@ -5,5 +5,7 @@ This is a program that prints my name
 */
 int main(int argc, char **argv) {
   printf("Mohsin Al barwani\n", );
+  printf("Asama ALQuwaitai");
+  printf("Mechanical Engineering");
   return 0;
 }
