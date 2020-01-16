@@ -7,5 +7,7 @@ int main(int argc, char **argv) {
   printf("Mohsin Al barwani\n", );
   printf("Asama ALQuwaitai");
   printf("Mechanical Engineering");
+  printf("Ahmed alrawahi");
+  printf("Mechanical Engineering");
   return 0;
 }
